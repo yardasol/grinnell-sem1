@@ -1,0 +1,2 @@
+(function(){try{window['readcube-request-ua']='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0';}catch(e){}
+var script=document.createElement('script');script.async=true;script.type='text/javascript';script.src='https://content-assets.readcube.com/assets/scielo_epdf_linker-27ffced1334b03c0bde972beda8b3a0d.js';document.getElementsByTagName('head').item(0).appendChild(script);})();

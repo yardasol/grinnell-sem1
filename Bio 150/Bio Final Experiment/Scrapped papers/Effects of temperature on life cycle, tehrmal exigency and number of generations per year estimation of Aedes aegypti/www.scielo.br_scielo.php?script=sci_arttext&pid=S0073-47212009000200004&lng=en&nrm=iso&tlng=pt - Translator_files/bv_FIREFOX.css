@@ -1,0 +1,4 @@
+﻿/* Firefox specific style sheet */
+
+#imgEdit { background-image: none; }
+#imgEdit:hover { background-image: url(../img/Hover.gif); }
